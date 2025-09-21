@@ -4,8 +4,6 @@ import random
 import threading
 import phonenumbers
 
-# --- ตัวอย่าง API function (นำฟังก์ชันจริงของเฟิร์สมาใส่ที่นี่) ---
-# ตัวอย่าง: wrapper สำหรับ api1 (ให้แก้ให้เรียก api ที่ต้องการจริง ๆ)
 def api1(phone):
     """
     ตัวอย่าง placeholder - แทนที่ด้วยฟังก์ชัน api จริงของคุณ
