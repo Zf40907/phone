@@ -1,3 +1,2 @@
 # คือ project ยิงเบอร์
-
-![ตัวอย่าง](/home/acer/Pictures/Screenshots/github)
+![ตัวอย่าง](Screenshot From 2025-09-21 19-18-00.png)
