@@ -31,4 +31,12 @@ DRY_RUN = True              # True = ไม่ยิงจริง แค่พ
 # เลือก API ที่จะใช้ (ชื่อจาก mapping)
 selected_api = "api1"  # เปลี่ยนเป็น api2, api3... ถ้ามี wrapper ให้เรียก
 
+## Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/username/single_api_tester.git
+cd single_api_tester
+
 
